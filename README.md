@@ -1,6 +1,6 @@
 ### **Hi there ~ 👋**
 
-I am Seongmin Kim, a sophomore of Electric and Electronic Engineering 
+I am Seongmin Kim, a sophomore of Electric and Electronic Engineering</br>
 I am interested in Machine Learning, Robotics!
 
 
