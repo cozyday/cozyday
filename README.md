@@ -1,6 +1,6 @@
 ### **Hi there ~ 👋**
 
-I am Seongmin Kim, a junior of Electric and Electronic Engineering</br>
+I am Seongmin Kim, a junior class of Electric and Electronic Engineering</br>
 I am interested in Machine Learning and Robotics!
 
 
