@@ -1,7 +1,7 @@
 ### **Hi there ~ 👋**
 
-I am Seongmin Kim, a junior class of Electric and Electronic Engineering</br>
-I am interested in Machine Learning and Robotics!
+I am Seongmin Kim, a senior class of Electric and Electronic Engineering</br>
+I am interested in Machine Learning and Reinforcement Learning!
 
 
 
@@ -10,5 +10,4 @@ I am interested in Machine Learning and Robotics!
 1. Computer Vison
 2. Electric and Electronic Engineering
 3. Python
-4. C++
-6. Deep Learning
+4. Deep Learning
